@@ -1,0 +1,5 @@
+import UIkit
+
+var str = "Hello, World"
+
+print(str)
